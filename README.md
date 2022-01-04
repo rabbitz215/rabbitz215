@@ -39,12 +39,9 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="RabbitZ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rabbitz215&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://portofolio-rabbitz.vercel.app/
 [twitter]: https://twitter.com/rabbitz215
